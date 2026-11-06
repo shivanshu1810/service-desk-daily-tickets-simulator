@@ -33,9 +33,21 @@ Achievements, Service Desk Trainee rank and the First Ticket badge:
 
 ![Achievements](achievements.png)
 
-The critical ticket resolution:
+The critical ticket, my resolution notes (the failed power supply, the replacement desktop SD2036 imaged and shipped with a return label):
 
-![Critical ticket resolution](critical-ticket-resolution.png)
+![Critical ticket resolution notes](critical-ticket-resolution.png)
+
+The correct solution steps for that ticket, part 1:
+
+![Solution steps part 1](critical-ticket-solution-steps.png)
+
+Steps, part 2:
+
+![Solution steps part 2](critical-ticket-steps-continued.png)
+
+Why the fix works:
+
+![Why this works](critical-ticket-why-it-works.png)
 
 ## What I practice here
 
