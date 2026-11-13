@@ -22,7 +22,17 @@ I closed 5 more tickets and got 77 points. I now have 159 points in total and a 
 4. A remote worker's VPN disconnected and would not reconnect. I remoted into her computer, flushed the DNS, restarted the computer, and reconnected the VPN. The tunnel came up active. +15 points.
 5. A remote worker could not get to her files on the shared drive. Her VPN was disconnected. I connected the VPN and checked the drive in File Explorer. The folders were all there, so no re-mapping was needed. +22 points.
 
-There are 5 more tickets waiting in my queue (a wrong computer clock, office printers down, a new employee account setup, and two more). The free plan gives me 5 tickets a day, so I will do those after the daily reset.
+There were 5 more tickets waiting in my queue (a wrong computer clock, office printers down, a new employee account setup, and two more). The free plan gives me 5 tickets a day, so those waited for the daily reset. I closed them on November 12, below.
+
+## November 12, 2026
+
+I closed 5 more tickets and got 103 points. I now have 262 points in total and a Bronze rank. I have closed 15 tickets so far. I am 10 points away from the Troubleshooter rank.
+
+1. HIGH. A user's computer clock was wrong and her meetings were off by an hour. The timezone was set to Eastern instead of Central. I changed the timezone to Central Time and synced the clock with the Internet time server. +20 points.
+2. HIGH. None of the printers on one floor were working. I rebooted the print server PRINT01, waited until it came back online, and confirmed in the company chat that printing worked again. +20 points.
+3. A new employee needed her account set up. I created her Directory account and added her to the Engineering, VPN-Users and CodeRepo-Access groups. +25 points.
+4. An employee moved to a new team and could not open her files and folders. In the Directory I added her to the IT Infrastructure group and removed her from the Engineering group. +20 points.
+5. A user's second monitor was black and showed No Signal, even though the monitor worked on a coworker's laptop. I updated the integrated graphics driver and restarted the PC, and the second monitor was detected again. +18 points.
 
 The screenshots in this repo show my dashboard, my finished tickets, and one ticket in full detail.
 
